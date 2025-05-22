@@ -13,6 +13,7 @@ public class User {
     private String rut;
     private String id;
     private boolean active;
+    private String rol;
 
 
 }
