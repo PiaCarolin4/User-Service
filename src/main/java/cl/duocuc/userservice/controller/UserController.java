@@ -2,8 +2,8 @@ package cl.duocuc.userservice.controller;
 
 
 import cl.duocuc.userservice.controller.response.MessageResponse;
-import cl.duocuc.userservice.service.UserService;
 import cl.duocuc.userservice.model.User;
+import cl.duocuc.userservice.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
